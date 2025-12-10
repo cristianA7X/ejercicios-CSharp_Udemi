@@ -1,0 +1,14 @@
+C:\Users\chris\OneDrive\Documentos\UDEMI\C#\Gestor de biblioteca\bin\Debug\net10.0\Gestor de biblioteca.exe
+C:\Users\chris\OneDrive\Documentos\UDEMI\C#\Gestor de biblioteca\bin\Debug\net10.0\Gestor de biblioteca.deps.json
+C:\Users\chris\OneDrive\Documentos\UDEMI\C#\Gestor de biblioteca\bin\Debug\net10.0\Gestor de biblioteca.runtimeconfig.json
+C:\Users\chris\OneDrive\Documentos\UDEMI\C#\Gestor de biblioteca\bin\Debug\net10.0\Gestor de biblioteca.dll
+C:\Users\chris\OneDrive\Documentos\UDEMI\C#\Gestor de biblioteca\bin\Debug\net10.0\Gestor de biblioteca.pdb
+C:\Users\chris\OneDrive\Documentos\UDEMI\C#\Gestor de biblioteca\obj\Debug\net10.0\Gestor de biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\OneDrive\Documentos\UDEMI\C#\Gestor de biblioteca\obj\Debug\net10.0\Gestor de biblioteca.AssemblyInfoInputs.cache
+C:\Users\chris\OneDrive\Documentos\UDEMI\C#\Gestor de biblioteca\obj\Debug\net10.0\Gestor de biblioteca.AssemblyInfo.cs
+C:\Users\chris\OneDrive\Documentos\UDEMI\C#\Gestor de biblioteca\obj\Debug\net10.0\Gestor de biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Documentos\UDEMI\C#\Gestor de biblioteca\obj\Debug\net10.0\Gestor de biblioteca.dll
+C:\Users\chris\OneDrive\Documentos\UDEMI\C#\Gestor de biblioteca\obj\Debug\net10.0\refint\Gestor de biblioteca.dll
+C:\Users\chris\OneDrive\Documentos\UDEMI\C#\Gestor de biblioteca\obj\Debug\net10.0\Gestor de biblioteca.pdb
+C:\Users\chris\OneDrive\Documentos\UDEMI\C#\Gestor de biblioteca\obj\Debug\net10.0\Gestor de biblioteca.genruntimeconfig.cache
+C:\Users\chris\OneDrive\Documentos\UDEMI\C#\Gestor de biblioteca\obj\Debug\net10.0\ref\Gestor de biblioteca.dll

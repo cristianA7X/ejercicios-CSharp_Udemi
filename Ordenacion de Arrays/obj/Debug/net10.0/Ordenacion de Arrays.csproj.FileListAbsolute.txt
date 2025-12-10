@@ -1,0 +1,14 @@
+C:\Users\chris\OneDrive\Documentos\C#\Ordenacion de Arrays\bin\Debug\net10.0\Ordenacion de Arrays.exe
+C:\Users\chris\OneDrive\Documentos\C#\Ordenacion de Arrays\bin\Debug\net10.0\Ordenacion de Arrays.deps.json
+C:\Users\chris\OneDrive\Documentos\C#\Ordenacion de Arrays\bin\Debug\net10.0\Ordenacion de Arrays.runtimeconfig.json
+C:\Users\chris\OneDrive\Documentos\C#\Ordenacion de Arrays\bin\Debug\net10.0\Ordenacion de Arrays.dll
+C:\Users\chris\OneDrive\Documentos\C#\Ordenacion de Arrays\bin\Debug\net10.0\Ordenacion de Arrays.pdb
+C:\Users\chris\OneDrive\Documentos\C#\Ordenacion de Arrays\obj\Debug\net10.0\Ordenacion de Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\OneDrive\Documentos\C#\Ordenacion de Arrays\obj\Debug\net10.0\Ordenacion de Arrays.AssemblyInfoInputs.cache
+C:\Users\chris\OneDrive\Documentos\C#\Ordenacion de Arrays\obj\Debug\net10.0\Ordenacion de Arrays.AssemblyInfo.cs
+C:\Users\chris\OneDrive\Documentos\C#\Ordenacion de Arrays\obj\Debug\net10.0\Ordenacion de Arrays.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Documentos\C#\Ordenacion de Arrays\obj\Debug\net10.0\Ordenacion de Arrays.dll
+C:\Users\chris\OneDrive\Documentos\C#\Ordenacion de Arrays\obj\Debug\net10.0\refint\Ordenacion de Arrays.dll
+C:\Users\chris\OneDrive\Documentos\C#\Ordenacion de Arrays\obj\Debug\net10.0\Ordenacion de Arrays.pdb
+C:\Users\chris\OneDrive\Documentos\C#\Ordenacion de Arrays\obj\Debug\net10.0\Ordenacion de Arrays.genruntimeconfig.cache
+C:\Users\chris\OneDrive\Documentos\C#\Ordenacion de Arrays\obj\Debug\net10.0\ref\Ordenacion de Arrays.dll

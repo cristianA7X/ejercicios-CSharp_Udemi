@@ -1,0 +1,14 @@
+C:\Users\chris\OneDrive\Documentos\C#\Funciones\Funciones\bin\Debug\net10.0\Funciones.exe
+C:\Users\chris\OneDrive\Documentos\C#\Funciones\Funciones\bin\Debug\net10.0\Funciones.deps.json
+C:\Users\chris\OneDrive\Documentos\C#\Funciones\Funciones\bin\Debug\net10.0\Funciones.runtimeconfig.json
+C:\Users\chris\OneDrive\Documentos\C#\Funciones\Funciones\bin\Debug\net10.0\Funciones.dll
+C:\Users\chris\OneDrive\Documentos\C#\Funciones\Funciones\bin\Debug\net10.0\Funciones.pdb
+C:\Users\chris\OneDrive\Documentos\C#\Funciones\Funciones\obj\Debug\net10.0\Funciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\OneDrive\Documentos\C#\Funciones\Funciones\obj\Debug\net10.0\Funciones.AssemblyInfoInputs.cache
+C:\Users\chris\OneDrive\Documentos\C#\Funciones\Funciones\obj\Debug\net10.0\Funciones.AssemblyInfo.cs
+C:\Users\chris\OneDrive\Documentos\C#\Funciones\Funciones\obj\Debug\net10.0\Funciones.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Documentos\C#\Funciones\Funciones\obj\Debug\net10.0\Funciones.dll
+C:\Users\chris\OneDrive\Documentos\C#\Funciones\Funciones\obj\Debug\net10.0\refint\Funciones.dll
+C:\Users\chris\OneDrive\Documentos\C#\Funciones\Funciones\obj\Debug\net10.0\Funciones.pdb
+C:\Users\chris\OneDrive\Documentos\C#\Funciones\Funciones\obj\Debug\net10.0\Funciones.genruntimeconfig.cache
+C:\Users\chris\OneDrive\Documentos\C#\Funciones\Funciones\obj\Debug\net10.0\ref\Funciones.dll

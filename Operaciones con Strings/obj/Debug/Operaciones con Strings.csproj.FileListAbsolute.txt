@@ -1,0 +1,7 @@
+C:\Users\chris\OneDrive\Documentos\UDEMI\C#\Operaciones con Strings\bin\Debug\Operaciones con Strings.exe.config
+C:\Users\chris\OneDrive\Documentos\UDEMI\C#\Operaciones con Strings\bin\Debug\Operaciones con Strings.exe
+C:\Users\chris\OneDrive\Documentos\UDEMI\C#\Operaciones con Strings\bin\Debug\Operaciones con Strings.pdb
+C:\Users\chris\OneDrive\Documentos\UDEMI\C#\Operaciones con Strings\obj\Debug\Operaciones con Strings.csproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Documentos\UDEMI\C#\Operaciones con Strings\obj\Debug\Operaciones con Strings.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Documentos\UDEMI\C#\Operaciones con Strings\obj\Debug\Operaciones con Strings.exe
+C:\Users\chris\OneDrive\Documentos\UDEMI\C#\Operaciones con Strings\obj\Debug\Operaciones con Strings.pdb

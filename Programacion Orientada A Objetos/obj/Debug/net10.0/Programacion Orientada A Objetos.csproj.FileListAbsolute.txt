@@ -1,0 +1,14 @@
+C:\Users\chris\OneDrive\Documentos\UDEMI\C#\Programacion Orientada A Objetos\bin\Debug\net10.0\Programacion Orientada A Objetos.exe
+C:\Users\chris\OneDrive\Documentos\UDEMI\C#\Programacion Orientada A Objetos\bin\Debug\net10.0\Programacion Orientada A Objetos.deps.json
+C:\Users\chris\OneDrive\Documentos\UDEMI\C#\Programacion Orientada A Objetos\bin\Debug\net10.0\Programacion Orientada A Objetos.runtimeconfig.json
+C:\Users\chris\OneDrive\Documentos\UDEMI\C#\Programacion Orientada A Objetos\bin\Debug\net10.0\Programacion Orientada A Objetos.dll
+C:\Users\chris\OneDrive\Documentos\UDEMI\C#\Programacion Orientada A Objetos\bin\Debug\net10.0\Programacion Orientada A Objetos.pdb
+C:\Users\chris\OneDrive\Documentos\UDEMI\C#\Programacion Orientada A Objetos\obj\Debug\net10.0\Programacion Orientada A Objetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\OneDrive\Documentos\UDEMI\C#\Programacion Orientada A Objetos\obj\Debug\net10.0\Programacion Orientada A Objetos.AssemblyInfoInputs.cache
+C:\Users\chris\OneDrive\Documentos\UDEMI\C#\Programacion Orientada A Objetos\obj\Debug\net10.0\Programacion Orientada A Objetos.AssemblyInfo.cs
+C:\Users\chris\OneDrive\Documentos\UDEMI\C#\Programacion Orientada A Objetos\obj\Debug\net10.0\Programacion Orientada A Objetos.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Documentos\UDEMI\C#\Programacion Orientada A Objetos\obj\Debug\net10.0\Programacion Orientada A Objetos.dll
+C:\Users\chris\OneDrive\Documentos\UDEMI\C#\Programacion Orientada A Objetos\obj\Debug\net10.0\refint\Programacion Orientada A Objetos.dll
+C:\Users\chris\OneDrive\Documentos\UDEMI\C#\Programacion Orientada A Objetos\obj\Debug\net10.0\Programacion Orientada A Objetos.pdb
+C:\Users\chris\OneDrive\Documentos\UDEMI\C#\Programacion Orientada A Objetos\obj\Debug\net10.0\Programacion Orientada A Objetos.genruntimeconfig.cache
+C:\Users\chris\OneDrive\Documentos\UDEMI\C#\Programacion Orientada A Objetos\obj\Debug\net10.0\ref\Programacion Orientada A Objetos.dll
